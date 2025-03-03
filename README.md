@@ -39,12 +39,8 @@ The project follows these main steps:
 To run the analysis locally:
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your_username/who-life-expectancy-prediction.git
+   git clone https://github.com/johnpospisil/who-life-expectancy-prediction.git
    cd who-life-expectancy-prediction
-   ```
-2. Install the required dependencies:
-   ```bash
-   pip install -r requirements.txt
    ```
 
 ## 💻 Usage
