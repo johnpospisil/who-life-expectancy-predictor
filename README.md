@@ -62,7 +62,7 @@ Future improvements may include:
 - Applying robust regression methods to mitigate the impact of outliers.
 
 ## 📜 License
-This project is licensed under the [MIT License](LICENSE).
+This project is licensed under the MIT License.
 
 ## 📫 Contact
 For any questions or collaboration opportunities, please contact [Your Name](mailto:john@johnpospisil.com).
