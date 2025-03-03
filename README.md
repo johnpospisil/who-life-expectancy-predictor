@@ -65,6 +65,6 @@ Future improvements may include:
 This project is licensed under the MIT License.
 
 ## 📫 Contact
-For any questions or collaboration opportunities, please contact [Your Name](mailto:john@johnpospisil.com).
+For any questions or collaboration opportunities, please contact [John Pospisil](mailto:john@johnpospisil.com).
 
 Enjoy exploring the data and uncovering insights that can help inform global public health strategies!
